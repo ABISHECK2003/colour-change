@@ -1,0 +1,11 @@
+button{
+    cursor: pointer;
+    background-color: violet;
+
+}
+body{
+    display: flex;
+    justify-content:center;
+  
+    margin-top: 400px;
+}
